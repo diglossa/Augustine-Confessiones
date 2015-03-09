@@ -1,0 +1,62 @@
+---
+author: 
+  lang: la
+  url: Augustine
+  nic: augustine
+  ru: св. Августин
+  en: st. Augustinus
+
+translators:
+  - nic: sergienko
+    lang: ru
+    ru: М.Е. Сергиенко
+    en: M.E. Sergienko
+  - nic: outler
+    lang: en
+    en: A.C.Outler
+    ru: А.С. Аутлер
+
+tree:
+  url: Confessiones
+  en: Confessiones
+  ru: Исповедь
+  children:
+    - url: Book 1
+      en: Book 1
+      ru: Книга 1
+    - url: Book 2
+      en: Book 2
+      ru: Книга 2
+    - url: Book 3
+      en: Book 3
+      ru: Книга 3
+    - url: Book 4
+      en: Book 4
+      ru: Книга 4
+    - url: Book 5
+      en: Book 5
+      ru: Книга 5
+    - url: Book 6
+      en: Book 6
+      ru: Книга 6
+    - url: Book 7
+      en: Book 7
+      ru: Книга 7
+    - url: Book 8
+      en: Book 8
+      ru: Книга 8
+    - url: Book 9
+      en: Book 9
+      ru: Книга 9
+    - url: Book 10
+      en: Book 10
+      ru: Книга 10
+    - url: Book 11
+      en: Book 11
+      ru: Книга 11
+    - url: Book 12
+      en: Book 12
+      ru: Книга 12
+    - url: Book 13
+      en: Book 13
+      ru: Книга 13

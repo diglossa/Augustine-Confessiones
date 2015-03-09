@@ -1,0 +1,46 @@
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+TAGS: @nursery(n)  @justnow(j)
+
+=== Sancti Aurelii Augustini Hipponensis Episcopi de musica libri sex ===
+
+
+*** TEXTS Августин О Граде Божьем
+ - все тексты есть, можно делать
+   http://ru.wikisource.org/wiki/Обсуждение:О_граде_Божьем
+   ru.wikisource.org/wiki/О_граде_Божьем/1#cite_note-0
+   lat: http://www.hs-augsburg.de/~harsch/Chronologia/Lspost05/Augustinus/aug_cd00.html
+
+* == De Musica ==
+
+* Notes
+   - итак, два разных вообще текста. Берем из италии.
+
+* links
+  http://www.chmtl.indiana.edu/tml/3rd-5th/3RD-5TH_INDEX.html
+  http://www.augustinus.it/latino/musica/index.htm
+
+*  ru: В.П. Зубов : http://early-music.narod.ru/biblioteka/estetika-mages-renais/estetika-mages-renais-07.htm
+
+Весь Early Music здесь
+
+ ~/MTXT/EARLY-MUSIC/$
+
+* header of latin text
+
+ THESAURUS MUSICARUM LATINARUM
+School of Music
+Indiana University
+Bloomington, IN 47405
+(phone: [812] 855-5471; Internet: mathiese@indiana.edu)
+
+Data entry: Angela Mariani, using TypeReader
+Checked by: Bradley Jon Tucker
+Approved by: Thomas J. Mathiesen
+
+Fn and Ft: AUGDEM2 TEXT
+Author: Augustinus, Aurelius
+Title: De Musica, liber secundus
+Source: Patrologia cursus completus, series latina, ed. J. P. Migne, 221 vols. (Paris: Garnier, 1844-1904), 32:1099-1116.
+
+[-1081-] Sancti Aurelii Augustini Hipponensis Episcopi de musica libri sex.
